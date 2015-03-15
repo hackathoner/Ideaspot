@@ -1,0 +1,2 @@
+# Ideaspot
+Ideas
